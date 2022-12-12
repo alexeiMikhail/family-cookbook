@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/family-cookbook/static/css/main.073c9b0a.css",
-    "main.js": "/family-cookbook/static/js/main.180fb54c.js",
+    "main.css": "/family-cookbook/static/css/main.e6c13ad2.css",
+    "main.js": "/family-cookbook/static/js/main.db1518f0.js",
     "static/js/787.eb23e001.chunk.js": "/family-cookbook/static/js/787.eb23e001.chunk.js",
-    "static/media/logo.svg": "/family-cookbook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/family-cookbook/index.html",
-    "main.073c9b0a.css.map": "/family-cookbook/static/css/main.073c9b0a.css.map",
-    "main.180fb54c.js.map": "/family-cookbook/static/js/main.180fb54c.js.map",
+    "main.e6c13ad2.css.map": "/family-cookbook/static/css/main.e6c13ad2.css.map",
+    "main.db1518f0.js.map": "/family-cookbook/static/js/main.db1518f0.js.map",
     "787.eb23e001.chunk.js.map": "/family-cookbook/static/js/787.eb23e001.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.180fb54c.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.db1518f0.js"
   ]
 }
