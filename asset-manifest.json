@@ -1,15 +1,10 @@
 {
   "files": {
-    "main.css": "/family-cookbook/static/css/main.e6c13ad2.css",
-    "main.js": "/family-cookbook/static/js/main.db1518f0.js",
-    "static/js/787.eb23e001.chunk.js": "/family-cookbook/static/js/787.eb23e001.chunk.js",
+    "main.js": "/family-cookbook/static/js/main.d3a70a65.js",
     "index.html": "/family-cookbook/index.html",
-    "main.e6c13ad2.css.map": "/family-cookbook/static/css/main.e6c13ad2.css.map",
-    "main.db1518f0.js.map": "/family-cookbook/static/js/main.db1518f0.js.map",
-    "787.eb23e001.chunk.js.map": "/family-cookbook/static/js/787.eb23e001.chunk.js.map"
+    "main.d3a70a65.js.map": "/family-cookbook/static/js/main.d3a70a65.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.db1518f0.js"
+    "static/js/main.d3a70a65.js"
   ]
 }
